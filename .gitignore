@@ -1,4 +1,4 @@
 /node_modules
 /dist
-/src
+.vscode/settings.json
 package-lock.json
